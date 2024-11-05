@@ -1,5 +1,6 @@
 ### A Manager for a Catalog of Products or Services
 
+It is a manager that organizes the interaction between the user and the code. Its main functionality is adding, saving, or uploading a product provided by the user to or from a file. It has three classes: Product, Catalog, and Menu, which are related to each other. 
 
 **PURPOSE OF PROJECT:**
 
@@ -18,4 +19,5 @@ HOW TO START THIS PROJECT: Basically, it depends on the application you are goin
 roman.michkovskyi@usp.ceu.es
 ## AUTHOR: 
 Roman Michkovskyi (iii-prrmichk)
-## DATE: 1.10.2024
+## DATE: 1.11.2024
+<img width="832" alt="Diagram" src="https://github.com/user-attachments/assets/00d46c2d-f90f-4a33-937d-6d35a9fa31c4">
