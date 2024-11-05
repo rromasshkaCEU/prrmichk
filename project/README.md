@@ -20,4 +20,7 @@ roman.michkovskyi@usp.ceu.es
 ## AUTHOR: 
 Roman Michkovskyi (iii-prrmichk)
 ## DATE: 1.11.2024
+
+
+Please see attached.
 <img width="832" alt="Diagram" src="https://github.com/user-attachments/assets/00d46c2d-f90f-4a33-937d-6d35a9fa31c4">
